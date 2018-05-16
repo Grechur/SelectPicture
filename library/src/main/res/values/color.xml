@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="media_choose_op_btn_disabled">#ffffffff</color>
+    <color name="media_choose_op_btn_enabled">#ffff819f</color>
+</resources>
