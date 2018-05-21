@@ -40,7 +40,6 @@
             android:layout_height="fill_parent"
             android:layout_alignParentRight="true"
             android:paddingRight="20.0dip"
-            android:onClick="sureSelect"
             android:text="确定" />
     </RelativeLayout>
 

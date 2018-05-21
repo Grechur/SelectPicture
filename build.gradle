@@ -19,10 +19,18 @@ allprojects {
     repositories {
         google()
         jcenter()
+        mavenCentral()
         maven { url 'https://jitpack.io' }
     }
 }
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+ext {
+    rxjavaVersion = "2.1.0"
+    rxandroidVersion = "2.0.1"
+    retrofitVersion = "2.3.0"
+    okhttpVersion = "3.9.0"
+    multiVersion = "1.0.0"
 }

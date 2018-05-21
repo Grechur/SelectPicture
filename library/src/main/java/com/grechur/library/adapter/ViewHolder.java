@@ -7,11 +7,6 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by Darren on 2016/12/28.
- * Email: 240336124@qq.com
- * Description: RecyclerView的ViewHolder
- */
 public class ViewHolder extends RecyclerView.ViewHolder {
 
     // 用来存放子View减少findViewById的次数

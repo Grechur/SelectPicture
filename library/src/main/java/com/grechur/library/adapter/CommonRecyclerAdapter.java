@@ -8,11 +8,7 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
-/**
- * Created by Darren on 2016/12/28.
- * Email: 240336124@qq.com
- * Description: 通用的Adapter
- */
+
 public abstract class CommonRecyclerAdapter<T> extends RecyclerView.Adapter<ViewHolder> {
 
     protected Context mContext;

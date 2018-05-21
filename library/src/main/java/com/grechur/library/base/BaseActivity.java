@@ -7,12 +7,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 
-/**
- * Email 240336124@qq.com
- * Created by Darren on 2017/2/12.
- * Version 1.0
- * Description: 整合应用的BaseActivity
- */
 public abstract class BaseActivity extends AppCompatActivity {
 
     @Override
